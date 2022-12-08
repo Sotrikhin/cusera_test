@@ -1,2 +1,2 @@
 # cusera_test
-cursera test repository
+**cursera** test repository
